@@ -1,0 +1,118 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url(https://www.toptal.com/designers/subtlepatterns/patterns/blue-snow.png);
+}
+
+p {
+    text-indent: 1.8em;
+}
+
+header ul {
+    background-color:rgba(255, 255, 255, 0.801);
+    color: pink;
+    display: flex;
+    position: fixed;
+    font-family: 'Roboto', sans-serif;
+    font-size: 2.8em;
+    justify-content: space-around;
+    list-style: none;
+    width: 100vw;
+}
+
+header ul a {
+    color: rgba(69, 140, 150, 0.87);
+    text-decoration: none;
+}
+
+header ul a:hover {
+    color: white;
+}
+
+header {
+    background-image: url(https://4.bp.blogspot.com/-EMbstksnOcQ/XT0CbTd6pxI/AAAAAAAAJmM/OYy5emZyRp4eEtGCkArr7oxRERXccGjhACLcBGAs/w914-h514-p-k-no-nu/karma-lol-winter-wonder-splash-art-uhdpaper.com-4K-772-wp.thumbnail.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+header h1 {
+    color: rgba(241, 235, 235, 0.89);
+    font-family: 'Fredoka One', cursive;
+    font-size: 9.0em;
+    padding-top: 0.4em;
+}
+
+.subtitle {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.8em;
+    line-height: 2.5em;
+}
+
+.menu {
+    color: black;
+    float: left;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    line-height: 2em;
+    padding-top: 1.2em;
+    padding-left: 1.0em;
+    width: 15em;
+}
+
+.menu li {
+    list-style: none;
+}
+
+.menu a {
+    color: black;
+    text-decoration: none;
+}
+
+.menu a:hover {
+    color: white;
+}
+
+. h3 {
+    font-size: 1.4em;
+    padding-bottom: 1.0em;
+}
+
+.main-text {
+    background-color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.2em;
+    height: 100%;
+    line-height: 1.8em;
+    margin: 0 auto;
+    padding-top: 1.2em;
+    padding-right: 2.0em;
+    padding-left: 2.0em;
+    text-align: justify;
+    text-justify: inter-word;
+    width: 50%;
+}
+
+.main-text li {
+    list-style: none;
+}
+
+.main-text a {
+    text-decoration: none;
+}
+
+footer {
+    background-image: url(https://img.quizur.com/f/img5e4eab1a472019.39018042.jpg?lastEdited=1582213918);
+    background-repeat: no-repeat;
+    background-position: center;
+    color: rgba(140, 145, 221, 0.815);
+    font-family: 'Fredoka One', cursive;
+    font-size: 2em;
+    margin: 2em auto;
+    padding: 2em;
+    text-align: center;
+    width: 50%;
+}
